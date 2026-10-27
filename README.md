@@ -50,7 +50,7 @@ mvn compile exec:java -Dexec.mainClass=com.mycompany.banksystem.Main
 | Employee | `eve` | `emp1` |
 | Manager | `mallory` | `mgr1` |
 
-These accounts are **fictional test data only**. Do not reuse these credentials for real services. Authentication uses plain-text demo passwords and is not production-ready.
+These accounts are **fictional test data only**. 
 
 ## Screenshots
 
